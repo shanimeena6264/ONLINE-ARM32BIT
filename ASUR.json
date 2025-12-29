@@ -1,10 +1,6 @@
 {
     "serverstatus":"true",
-    "noticemode":"true",
-    "dataclearmode":"false",
-    "servermeassage":"",
-    "opentime":"",
-    "libs":"https://github.com/shanimeena6264/ONLINE-ARM32BIT/releases/download/Join/ASUR.zip",
-    "notice_title":"TG~ @ios_SHANi",
-    "notice_body":""
+    "servermeassage":"Wait For New Update !",
+    "tg_name":"Tg: @ASURVIPMOD",
+    "libs":"https://github.com/shanimeena6264/ONLINE-ARM32BIT/releases/download/Join/ASUR.zip"
 }
