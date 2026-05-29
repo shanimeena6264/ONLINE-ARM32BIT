@@ -1,7 +1,7 @@
 {
     "maintenance_mode": false,
     "maintenance_message": "🔧 MAINTENANCE MODE 🔧\n\nApp is temporarily unavailable.\n\nExpected Completion: 24 Hour's\n\nPlease try again later.",
-    "current_version_code": 38,
+    "current_version_code": 39,
     "latest_version": "Bgmi 4.4",
     "message": "🔥 NEW UPDATE! 🔥\n\n• Fix Ban Issue\n• Fix LagCrash\n• Anti-Ban Updated",
     "lib_url": "https://onlinelib.ggff.net/Thunder/download.php?t=lib4",
